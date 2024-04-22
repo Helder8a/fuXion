@@ -510,3 +510,16 @@
 }
 
 /*** Footer End ***/
+
+/*** FWathshap ***/
+.btn-whatsapp {
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 30px;
+    left: 15px;
+    border-radius:60px;
+    text-align:center;
+    font-size:0px;
+    z-index:100;
+}
